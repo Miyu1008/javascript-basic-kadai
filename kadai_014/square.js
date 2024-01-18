@@ -3,5 +3,5 @@ const square = (num) => {
     console.log(result);
   }
   
-  square(10); // 25が出力される
+  square(10); // 100が出力される
   
