@@ -1,7 +1,7 @@
-const square = (num) => {
-    const result = num ** 2;
-    console.log(result);
+const double = (num) => {
+    return num ** 2;
+   
   }
-  
-  square(10); // 100が出力される
+  console.log(double(10));
+
   
