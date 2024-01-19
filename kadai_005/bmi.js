@@ -14,7 +14,10 @@ height = 1.7;
 let bmi
 
 //コンソールへの出力
-bmi = bodyweight / (height ** 2)
+bmi = bodyweight / (height ** 2);
 
 // 四則計算
 console.log(68 / (1.7 * 1.7));
+
+// 四則計算
+console.log(bmi);
